@@ -1,6 +1,19 @@
-# new_project
+# Hive Local Storage Daily Task App
 
-A new Flutter project.
+Used Packages:
+  - hive: ^2.0.5
+  - hive_flutter: ^1.1.0
+  - flutter_lints: ^1.0.0
+  - hive_generator: ^1.1.2
+  - build_runner: ^2.1.7
+  - flutter_secure_storage: ^5.0.2
+  - flutter_datetime_picker: ^1.5.1
+  - uuid: ^3.0.5
+  - intl: ^0.17.0
+  - get_it: ^7.2.0
+
+![hivestorage](https://user-images.githubusercontent.com/70916991/151047803-caea07fc-023b-4ab0-92b8-0a8afba59d87.gif)
+
 
 ## Getting Started
 
